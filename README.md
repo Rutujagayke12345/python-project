@@ -1,1 +1,1 @@
-# python-project
+Aim Trainer in python
